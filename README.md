@@ -34,5 +34,6 @@ src="https://img.shields.io/github/followers/TheRealJackiBoi?logo=github&style=f
 <br />
 
 <br />
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/TheRealJackiBoi/fridge-app" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJackiBoi&repo=fridge-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/TheRealJackiBoi/NotesRestApi" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRealJackiBoi&repo=NotesRestApi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
