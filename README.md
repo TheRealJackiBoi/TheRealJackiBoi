@@ -1,5 +1,8 @@
 Hi 👋 My name is Jack
-=====================Software Dev Student--------------------I've been coding since 2018. Started because of an interest for websites and my hunger for challenges* 🌍  I'm based in Copenhagen* ✉️  You can contact me at [jack@oulund.dk](mailto:jack@oulund.dk)* 🚀  I'm currently working on [Blogged.dk](http://blogged.dk)* 🧠  I'm learning React
+=====================
+Software Dev Student
+--------------------
+I've been coding since 2018. Started because of an interest for websites and my hunger for challenges* 🌍  I'm based in Copenhagen* ✉️  You can contact me at [jack@oulund.dk](mailto:jack@oulund.dk)* 🚀  I'm currently working on [Blogged.dk](http://blogged.dk)* 🧠  I'm learning React
 
 <a href="https://www.github.com/TheRealJackiBoi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheRealJackiBoi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
