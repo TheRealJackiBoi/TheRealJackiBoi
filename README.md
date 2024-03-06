@@ -6,7 +6,7 @@ I've been coding since 2018. Started because of an interest for websites and my 
 * 🌍  I'm based in Copenhagen
 * ✉️  You can contact me at [jack@oulund.dk](mailto:jack@oulund.dk)
 * 🚀  I'm currently working on [Blogged.dk](http://blogged.dk)
-* 🧠  I'm learning React
+* 🧠  I'm learning The MERN Stack
 
 <a href="https://www.github.com/TheRealJackiBoi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheRealJackiBoi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
