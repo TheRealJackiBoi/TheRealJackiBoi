@@ -4,6 +4,7 @@ Software Dev Student
 --------------------
 I've been coding since 2018. Started because of an interest for websites and my hunger for challenges
 * 🌍  I'm based in Copenhagen
+* 🌐  My website [jackoulund.dk](https://jackoulund.dk/)
 * ✉️  You can contact me at [jack@oulund.dk](mailto:jack@oulund.dk)
 * 🚀  I'm currently working on [Blogged.dk](http://blogged.dk)
 * 🧠  I'm learning the Next.js
